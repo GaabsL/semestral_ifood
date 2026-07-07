@@ -1,0 +1,6 @@
+{
+  "name": "iFood - Fechamento 1º Semestre 2026",
+  "description": "Relatório executivo e painel estratégico interativo apresentando os resultados de marketing digital do iFood no primeiro semestre de 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
